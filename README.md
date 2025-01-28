@@ -13,6 +13,7 @@ function mystery(a) {
 ```
 
 //
+Name: Kane Kriz
 
 Response:
 The mystery() function in the attatched piece of code first checks if array a is of length 1, which if true, it simply returns that value as it is the only value within the array.

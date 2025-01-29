@@ -13,6 +13,8 @@ function mystery(a) {
 ```
 
 //
+// As of 1/28/2025
+
 Name: Kane Kriz
 
 Response:
@@ -35,3 +37,7 @@ I was not fully familar with the JS slice() method. I used this link to become i
 [https://www.w3schools.com/jsref/jsref_slice_string.asp](url)
 
 “JavaScript String Slice() Method.” Www.w3schools.com, www.w3schools.com/jsref/jsref_slice_string.asp. Accessed 28 Jan. 2025.
+
+//
+
+Plagiarism Acknowledgement: I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
